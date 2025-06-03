@@ -19,7 +19,7 @@ Este repositório reúne as atividades desenvolvidas durante as aulas da discipl
   - Merge Sort
   - Quick Sort
   - Radix Sort
-  - Binary Sort (possivelmente busca binária).
+  - Bin Sort 
 
 ### Aula 4
 - Projeto **Abra Kadabra** (invenção da professora): simulação de alocação com blocos de memória e ordenação com remoção/inserção.
@@ -40,8 +40,8 @@ Este repositório reúne as atividades desenvolvidas durante as aulas da discipl
 ### Aula 8
 - Árvores binárias e **não binárias**.
 - Operações específicas criadas pela professora:
-  - Soma de árvores
-  - Multiplicação de árvore por folhas
+  - Soma e subtração de árvores
+  - Multiplicação e divisão de árvore por folhas
   - Projeções e combinações de nós
 - [Código: `arv_operacao.c`](./arv_operacao.c)
 
